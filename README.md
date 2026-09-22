@@ -10,7 +10,7 @@ This repository contains the **public experiment code** used for the manuscript.
 
 Rasters, patch archives, and labeled training points are available from the corresponding author on reasonable request:
 
-**Email:** `mehathab.ashraff@gmail.com` or `babithabms@gmail.com`
+**Email:** `babithabms@gmail.com` or `mehathab.ashraff@gmail.com`
 
 After you receive the data package, place files under `./data/` as described below (see *Expected data layout*).
 
@@ -147,7 +147,8 @@ Default patch size is **21×21** (`PATCH_SIZE` in `configs/config.py`). Ablation
 If you use this code, please cite the associated TriSAFNet: A Tri - Source Attention Fusion Network for Multi-Sensor Land Use and Land Cover Classification in Urban–Peri-Urban Karnataka:
 
 ```
-M.S. Babitha1, Diana Andrushia2, A. Mehathab3, N. Anand4,  M.Z. Naser. TriSAFNet: A Tri - Source Attention Fusion Network for Multi-Sensor Land Use and Land Cover Classification in Urban–Peri-Urban Karnataka, 2026.
+Authors : M.S. Babitha, Diana Andrushia, A. Mehathab, N. Anand,  M.Z. Naser. 
+Title : TriSAFNet: A Tri - Source Attention Fusion Network for Multi-Sensor Land Use and Land Cover Classification in Urban–Peri-Urban Karnataka, 2026.
 Manuscript ID: RSASE-D-25-02735
 ```
 
@@ -156,7 +157,7 @@ Manuscript ID: RSASE-D-25-02735
 ## License / contact
 
 Code is provided for research reproducibility related to the manuscript.  
-For data access or questions: **`mehathab.ashraff@gmail.com`** or **`babithabms@gmail.com`**
+For data access or questions: **`babithabms@gmail.com`** or **`mehathab.ashraff@gmail.com`**
 
 ---
 
