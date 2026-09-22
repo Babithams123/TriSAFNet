@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TriSAFNet — Karnataka LULC Classification
 
 **TriSAFNet** (*Tri-Source Attention Fusion Network*) is a multi-branch deep learning model for land-use / land-cover (LULC) mapping over Karnataka, India. It fuses **SAR**, **optical / spectral**, and **topographic** inputs with attention mechanisms (SE, CBAM, cross-source attention) and is compared against CNN, CNN–RF, EfficientNet, MobileNet, ViT, and classical ML baselines.
@@ -165,3 +166,7 @@ For data access or questions: **`mehathab.ashraff@gmail.com`** or **`babithabms@
 - Large rasters and `.npz` patch files are intentionally **excluded** from GitHub (see `.gitignore`).
 - Do not commit local `outputs/`, `runs/`, or `mlruns/` directories.
 - Hyperparameters and paths live in a single place: `configs/config.py`.
+=======
+# TriSAFNet
+Deep learning-based multisource satellite image classification for LULC mapping.
+>>>>>>> 7e61d2330914be0f0f1c5111b46f448d308780a2
